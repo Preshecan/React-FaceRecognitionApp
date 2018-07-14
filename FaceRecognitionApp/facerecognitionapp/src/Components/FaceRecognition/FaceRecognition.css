@@ -1,0 +1,14 @@
+.image{
+	max-width: 400px;
+	margin:auto;
+	padding-top: 20px;
+}
+
+.bounding-box{
+	position: absolute;
+    box-shadow: inset 0 0 0 3px #149df2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
